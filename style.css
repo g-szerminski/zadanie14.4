@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css?family=Rammetto+One" rel="stylesheet');
+
+body {
+   box-sizing: border-box;
+   margin: 0;
+   padding: 0;
+   background-color: #3a3131;
+   font-family: 'Rammetto One', cursive;
+   text-align: center;
+   argin: 0 auto;
+}
+
+h1 {
+   font-size: 60px;
+   margin: 0;
+   padding: 0;
+}
+
+h2 {
+   font-size: 40px;
+   margin-top: : 40px;
+   margin-bottom: 5px;
+}
+
+li {
+   list-style-type: none;
+}
+
+p {
+   font-size: 25px;
+   margin: 5px 0;
+}
+
+img {
+   margin: 0 auto;
+   display: block;
+}
+
+#app {
+   width: 1200px;
+   background-color: #3a3131;
+   color: #fff;
+}
